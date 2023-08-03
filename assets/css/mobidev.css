@@ -224,7 +224,7 @@ header
 --------------------------------------------- 
 */
 .background-header {
-  background-color: #212741;
+  background-color: #20b18f;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -664,7 +664,7 @@ header
     height: auto;
   }
   .header-area .main-nav .nav li.has-sub:after {
-    color: #3B566E;
+    color: #3c9f98;
     right: 30px;
     font-size: 14px;
     top: 15px;
@@ -941,7 +941,7 @@ section.about-us .naccs .menu div {
 }
 
 section.about-us .naccs .menu div.active {
-  color: #ff511a;
+  color: #43ba7f;
 }
 
 section.about-us ul.nacc {
